@@ -1,0 +1,6 @@
+framework module Pods_Snapfun {
+  umbrella header "Pods-Snapfun-umbrella.h"
+
+  export *
+  module * { export * }
+}
