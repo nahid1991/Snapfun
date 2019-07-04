@@ -19,7 +19,6 @@
 		BD07C12222CBDB1E00B751D0 /* SelectUserTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD07C12122CBDB1E00B751D0 /* SelectUserTableViewController.swift */; };
 		BD07C12622CBEA3900B751D0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD07C12522CBEA3900B751D0 /* Assets.xcassets */; };
 		BD07C12822CBEDC300B751D0 /* ViewSnapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD07C12722CBEDC300B751D0 /* ViewSnapViewController.swift */; };
-		BDE9E31222CE7D6900256DB2 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = BDE9E31122CE7D6900256DB2 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,7 +38,6 @@
 		BD07C12122CBDB1E00B751D0 /* SelectUserTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectUserTableViewController.swift; sourceTree = "<group>"; };
 		BD07C12522CBEA3900B751D0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD07C12722CBEDC300B751D0 /* ViewSnapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewSnapViewController.swift; sourceTree = "<group>"; };
-		BDE9E31122CE7D6900256DB2 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +63,6 @@
 		BD07C0F822C74FC800B751D0 = {
 			isa = PBXGroup;
 			children = (
-				BDE9E31122CE7D6900256DB2 /* .gitignore */,
 				BD07C10322C74FC800B751D0 /* Snapfun */,
 				BD07C10222C74FC800B751D0 /* Products */,
 				DD67BB372F47D68C4F8C8AB4 /* Pods */,
@@ -169,7 +166,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BDE9E31222CE7D6900256DB2 /* .gitignore in Resources */,
 				BD07C11222C74FCB00B751D0 /* LaunchScreen.storyboard in Resources */,
 				BD07C11A22CA6AA800B751D0 /* GoogleService-Info.plist in Resources */,
 				BD07C12622CBEA3900B751D0 /* Assets.xcassets in Resources */,
